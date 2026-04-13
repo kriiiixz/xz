@@ -15,7 +15,11 @@ body{
     width: 100%;
     height: 100%;
 }
+#section-1 #dose-container{
+    margin-top: 10%;
+    width: 40%;
+}
 #section-1 #dosehiii{
-    margin-top: 100%;
     width: 100%;
+    height: 100%;
 }
